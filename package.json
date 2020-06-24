@@ -1,0 +1,19 @@
+{
+  "name": "emoji-map",
+  "version": "1.0.0",
+  "description": "A Dash and Firebase app to visualize emoji usage on Twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueybloke/emoji-map.git"
+  },
+  "author": "Max Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blueybloke/emoji-map/issues"
+  },
+  "homepage": "https://github.com/blueybloke/emoji-map#readme"
+}
